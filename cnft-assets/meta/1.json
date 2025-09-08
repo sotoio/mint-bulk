@@ -1,0 +1,14 @@
+{
+  "name": "My cNFT #1",
+  "symbol": "",
+  "description": "Compressed NFT example",
+  "image": "https://<USERNAME>.github.io/cnft-assets/images/1.png",
+  "attributes": [
+    { "trait_type": "Edition", "value": "Genesis" }
+  ],
+  "properties": {
+    "files": [{ "uri": "https://<USERNAME>.github.io/cnft-assets/images/1.png", "type": "image/png" }],
+    "category": "image"
+  },
+  "external_url": "https://<USERNAME>.github.io/cnft-assets/"
+}

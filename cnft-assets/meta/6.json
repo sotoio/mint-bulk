@@ -1,13 +1,13 @@
 {
-  "name": "My cNFT #1",
+  "name": "My cNFT #6",
   "symbol": "",
   "description": "Compressed NFT example",
-  "image": "https://github.com/sotoio/mint-bulk/blob/main/cnft-assets/images/1.png",
+  "image": "https://github.com/sotoio/mint-bulk/blob/main/cnft-assets/images/6.png",
   "attributes": [
     { "trait_type": "Edition", "value": "Genesis" }
   ],
   "properties": {
-    "files": [{ "uri": "https://github.com/sotoio/mint-bulk/blob/main/cnft-assets/images/1.png", "type": "image/png" }],
+    "files": [{ "uri": "https://github.com/sotoio/mint-bulk/blob/main/cnft-assets/images/6.png", "type": "image/png" }],
     "category": "image"
   },
   "external_url": "https://github.com/sotoio/mint-bulk"
